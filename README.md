@@ -17,9 +17,9 @@
 | 项目名称 | 论文 | 教程 | 状态 |
 | -- | -- | -- | -- |
 | Transfer Learning for Image Classification  | - | [a-PyTorch-Tutorial-to-Transfer-Learning](https://github.com/L1aoXingyu/a-PyTorch-Tutorial-to-Transfer-Learning)  |  Completed |
-| Image Cpationing  | [Show, Attend and Tell](https://arxiv.org/abs/1502.03044) |   | Planned  | 
+| Image Cpationing  | [Show, Attend and Tell](https://arxiv.org/abs/1502.03044) |   | Code completed, writing readme  | 
 | Semantic Segmentation| [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) | | Planned |
-| Object Detection | [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) | | In-progress |
+| Object Detection | [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) | | Planned |
 | Text Generation | [Neural Text Generation: A Practical Guide](https://arxiv.org/abs/1711.09534) | | Planned |
 | Sequence Labelling | [Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/abs/1709.04109) | | Planned |
 | Text Classification | [Hierarchical Attention Networks for Document Classification](https://www.aclweb.org/anthology/N16-1174) | | Planned |
